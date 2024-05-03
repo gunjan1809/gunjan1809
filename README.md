@@ -1,4 +1,4 @@
-[![MasterHead](2wCEAAkGBxISEhITEBEVFRUVFxcXFRYWFRoXGBgWFRgXGBcYFRcYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICUyLS0rLS0tLS0tLS0tMC0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Gunjan</h1>
 <h3 align="center">Welcome to my world of creative domain, I am a Frontend Web Developer doing all things creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/91/15/a9/9115a934eaeebb3cb661f3df39dcaf92.jpg">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Naukarii_Dekho**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Data Structures and Algorithm , MERN**
 
